@@ -2,6 +2,7 @@
 Reconhecimento de imagens com redes neurais convolucionais.
 
 Como Testar o Projeto no Google Colab
+
 Este projeto foi desenvolvido para rodar no ambiente do Google Colab. Para testar o modelo com a sua própria imagem de um número, siga os passos abaixo:
 
 1. Fazer o Upload da Imagem
